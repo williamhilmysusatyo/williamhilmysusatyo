@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on my personal portofolio website
 - 📫 Reach me on williamhilmys@gmail.com
 
-Connect with me
+**Connect with me**
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/william-hilmy-susatyo-440732170/" rel="some text " height="30" width="40"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="william" height="40" width="40" /></a>
