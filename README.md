@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m William
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamhilmysusatyo&label=Profile%20views&color=0e75b6&style=flat" alt="williamhilmy" /> </p> 
+
 - 👀 I’m interested in Machine Learning and Cloud Computing
 - 🌱 I’m currently working on my personal portofolio website
 - 📫 Reach me on williamhilmys@gmail.com
